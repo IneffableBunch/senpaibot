@@ -1,0 +1,4 @@
+USER_AGENT = ""
+
+USERNAME = ''
+PASSWORD = ''
